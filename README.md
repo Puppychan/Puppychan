@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya~ Minna👋 Nhung désu (^.^)🙇‍♀️
 
 <!--
 **Puppychan/Puppychan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
