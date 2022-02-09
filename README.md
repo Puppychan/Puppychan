@@ -1,4 +1,5 @@
 ### Hiya~ Minna👋 Nhung désu (^.^)🙇‍♀️
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Puppychan)](https://git.io/streak-stats)
 
 <!--
 **Puppychan/Puppychan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
