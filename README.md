@@ -19,7 +19,7 @@ Konnichiwa~, I'm Nhung Tran. Yoroshiku 	ヽ (o ^ ^ o) ﾉ
 
   <h2>Stats Overview : :cyclone: </h2>
   <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wi2liamalpha&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=aura" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Puppychan&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=aura" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Puppychan&theme=dracula&no-bg=true&row=1"/>
   </p>
 
