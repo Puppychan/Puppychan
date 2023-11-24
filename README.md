@@ -33,11 +33,13 @@
 
   
  <h2>Current Status Quo: :information_source:</h2>
-   <img src="https://media.tenor.com/_mUKMulve5MAAAAd/anya-spy-x-family.gif" alt="anya gif" align="right" />
+   <img src="https://media.tenor.com/_mUKMulve5MAAAAd/anya-spy-x-family.gif" alt="anya gif" align="right" width="300" height="300" />
   
-- 💼 I’m pursuing a <strong>Software Engineering</strong>.
-- 🌱 I’m currently learning <strong>JS</strong> and <strong>Java</strong>
-- 🔍 I’m looking for career opportunities as a full-stack developer
+  - 💼 I’m pursuing a <strong>Software Engineering</strong> major.
+  - 🌱 I’m currently working as <strong>a full-stack web developer</strong>.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="25" height="25" /> My favorite tools are Typescript, React, Postgres, and Nestjs.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /> I'm also fond of developing iOS application, and building game.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> Side hobbies: dance <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Dancing.png" alt="Woman Dancing" width="25" height="25" />, and photography <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" alt="Camera" width="25" height="25" />
 
 <h2>👩‍💻 Statistics 📊</h2>
 <!-- Streak -->
