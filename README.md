@@ -29,7 +29,6 @@
 <p align="center">
   <a href="https://www.facebook.com/rinkaki.toran/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ></a>
   <a href="https://www.instagram.com/suisui_adventure/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-  <a href="weixin://dl/chat?suisei_stellar"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" ></a>
 </p>
 
   
