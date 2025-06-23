@@ -24,11 +24,12 @@
 <h2>How to reach me : (◕‿◕✿) </h2>
 <p align="center">
   <a href="mailto: nhungmaitran1412@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-<a href="https://www.linkedin.com/in/nhung-tran-528396210/"><img src="https://img.shields.io/badge/Matsuri-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+  <a href="https://www.linkedin.com/in/nhung-tran-528396210/"><img src="https://img.shields.io/badge/Matsuri-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
 </p>
 <p align="center">
   <a href="https://www.facebook.com/rinkaki.toran/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ></a>
   <a href="https://www.instagram.com/suisui_adventure/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+  <a href="weixin://dl/chat?suisei_stellar"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" ></a>
 </p>
 
   
